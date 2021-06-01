@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "guild": "",
+    "prefix": "!",
+    "adminRole": "Dev",
+    "username": "AlertBot",
+    "password": "",
+    "server": "localhost",
+    "joincommand": "HEYOOOOOOOO",
+    "chatid": ""
+}
